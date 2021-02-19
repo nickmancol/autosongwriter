@@ -1040,3 +1040,187 @@ come here baby cause you can build
  let me feel in my feelings 
  but
 ================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"know why 
+ its too"
+know why 
+ its too late for all that 
+ its too late for all that 
+ dont be busy standin fuckin on 
+ its just the simple simple 
+ my mother and ill be 
+ 
+ somewhere hanging into 
+ 
+ the mind is a man 
+ 
+ the wounded father 
+ 
+ 
+
+----- Diversity:0.4
+----- Generating with seed:
+"know why 
+ its too"
+know why 
+ its too late for all that 
+ its too late for all that 
+ dont be busy standin fuckin on the stove ill order wings 
+ 
+ i went and my ex 
+ i made myself a 40 
+ i got myself a 40 
+ i got myself a 40 
+ i
+----- Diversity:0.5
+----- Generating with seed:
+"know why 
+ its too"
+know why 
+ its too late for all that 
+ a black boy white boy 
+ we aint fucked a lot out of me 
+ when youre not there 
+ i know it wasnt meant to be 
+ 
+ if i can let you down 
+ woulda gave forever you handful 
+ but i need
+----- Diversity:0.6
+----- Generating with seed:
+"know why 
+ its too"
+know why 
+ its too late for all that 
+ its like i notice my love my name so i 
+ fuck with my face 
+ let down that line of the name of us lived in the place 
+ and i am a boy who is at a darkened room 
+ and if its
+----- Diversity:0.7
+----- Generating with seed:
+"know why 
+ its too"
+know why 
+ its too late when im not wrong 
+ the way you hidin you from me 
+ im still here and im scared of the same same miserable 
+ 
+ everything is bridge for everything that she opened like 
+ her hair 
+ on a mad line 
+ i wasnt broke and you
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"the time is come i"
+the time is come i aint here 
+ shooting at you at the sky that i was a part of me 
+ and i got nobody to blame but me 
+ i got nobody to blame but me 
+ i got nobody to blame but me 
+ i got nobody to blame but me 
+
+----- Diversity:0.4
+----- Generating with seed:
+"the time is come i"
+the time is come i need 
+ and if deep is your love 
+ how deep is your love 
+ how deep is your love 
+ how deep is your love 
+ how deep is your love 
+ how deep is your love 
+ how deep is your love 
+ how deep is your love
+----- Diversity:0.5
+----- Generating with seed:
+"the time is come i"
+the time is come i know 
+ i need you to set me free 
+ i was dreaming of jack then 
+ tell me whats the smell of my tracks 
+ in a house let us breathe 
+ if we lost the hungry 
+ and i wish to love you 
+ i cant help but
+----- Diversity:0.6
+----- Generating with seed:
+"the time is come i"
+the time is come i know 
+ ill never happen it all back over me 
+ i dont wanna know about your new man 
+ well man i never say it was the only thing to make is 
+ hope can you please i dont talk nothin bout my face 
+ would fuck your back
+----- Diversity:0.7
+----- Generating with seed:
+"the time is come i"
+the time is come i can 
+ when i get the pay 
+ i can feel the sky in feel live 
+ where have you belong to me 
+ and bring to the bitter taste to the 
+ hands in her sleeve 
+ but the meet with the next 
+ or the wine will not
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"are youre sittin here in"
+are youre sittin here in the bar 
+ put in the safe and how it real 
+ when you hear this beat it tight 
+ aint wait makin you aint sorry for you 
+ i was always on the way you showed up 
+ oh what if i do 
+ when your face feel 
+
+----- Diversity:0.4
+----- Generating with seed:
+"are youre sittin here in"
+are youre sittin here in summer 
+ i just need one more shot at second longer towel im a dream 
+ if you dont know my name 
+ i dont hit no touch when im with you 
+ i dont like i just control 
+ cause i think its cause i remembered for the first
+----- Diversity:0.5
+----- Generating with seed:
+"are youre sittin here in"
+are youre sittin here in this bar 
+ put in the sky over the lip of fire 
+ until the heat is sharp for you crystal 
+ know i wanna know yeah 
+ i dont know how to do 
+ 
+ what you settle 
+ wanting what you known 
+ great age on our bodies
+----- Diversity:0.6
+----- Generating with seed:
+"are youre sittin here in"
+are youre sittin here in 
+ if you dont know how i like 
+ i know that i wanna do it like you do 
+ i just wanna go to the place 
+ to read where in the dry land 
+ and school behind the star 
+ to say on my side on the side
+----- Diversity:0.7
+----- Generating with seed:
+"are youre sittin here in"
+are youre sittin here in the 
+ tell me feel the same same 
+ sometimes you hate your love 
+ yah my two two hoes yah 
+ woo woo woo woo woo woo woo woo woo woo woo woo woo woo woo woo woo 
+ ima buy it real eat from the start sitting there
+================================================================================
