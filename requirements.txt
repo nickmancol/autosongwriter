@@ -1,4 +1,3 @@
-dask[dataframe]
 numpy==1.19.2
 pandas
 scikit-learn

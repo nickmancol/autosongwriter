@@ -980,3 +980,63 @@ young boy jumped out at the beach to pull
  im living fast in every time 
  i do not know how i have to think of a million
 ================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"come here baby cause you"
+come here baby cause you can leave 
+ you want us 
+ and how it would have known 
+ if i would have known 
+ if i would have known 
+ if i would have known 
+ if i would have known 
+ if i would have known 
+ if i would have known 
+
+----- Diversity:0.4
+----- Generating with seed:
+"come here baby cause you"
+come here baby cause you can be a tall thug 
+ as the air which clear before us do the 
+ empty and blasting him in his arms 
+ he came to me and he was going back 
+ i was the same old school beach 
+ we must have walkin with a ring 
+
+----- Diversity:0.5
+----- Generating with seed:
+"come here baby cause you"
+come here baby cause you can leave 
+ you want us no one 
+ i dont know its cause 
+ im looking good at it 
+ at least i told him 
+ when he called me 
+ i promise you the most safe may get it back 
+ to the plan wondering woman woman 
+
+----- Diversity:0.6
+----- Generating with seed:
+"come here baby cause you"
+come here baby cause you can build 
+ can you belong on me 
+ i was on the corner with the nigga 
+ next for the fuck those four day 
+ thats gonna last lights no 
+ touch it like no help 
+ this is what they call 
+ what we say you’re going to
+----- Diversity:0.7
+----- Generating with seed:
+"come here baby cause you"
+come here baby cause you can build 
+ just a neighbor with a quick prayer 
+ and from the side where we pull in late 
+ like a new guy 
+ ive been thinking and twenty was no feet by this morning 
+ of my head 
+ let me feel in my feelings 
+ but
+================================================================================
